@@ -2,7 +2,7 @@
 
 export default function LaFamaPage() {
   return (
-    <div className="min-h-screen bg-[#F7C94B] p-4 md:p-8">
+    <div className="min-h-screen bg-[#9fa199] p-4 md:p-8">
       <div className="max-w-4xl mx-auto space-y-6">
         {/* Header Section */}
         <div className="text-center space-y-2">
